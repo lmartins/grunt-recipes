@@ -1,0 +1,14 @@
+{
+  "author": "Luis Martins",
+  "name": "giatul",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-sass": "~0.6.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-concat": "~0.3.0"
+  }
+}
